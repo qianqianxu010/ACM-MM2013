@@ -1,4 +1,3 @@
-# ACM-MM2013
 % ========================================================================
 % Relaxed Collaborative Representation, Version 1.0
 % Copyright(c) 2013 Qianqian Xu, Jiechao Xiong, Qingming Huang, Yuan Yao
@@ -20,7 +19,7 @@
 %
 % Please refer to the following paper:
 %
-% Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao, ‚ÄúRobust Evaluation for Quality of Experience in Crowdsourcing‚Äù, in Proceedings of ACM Multimedia Conference, Oct. 21-25,  % pp. 43-52, Barcelona, Catalunya, Spain, 2013.
+% Qianqian Xu, Jiechao Xiong, Qingming Huang, and Yuan Yao, °∞Robust Evaluation for Quality of Experience in Crowdsourcing°±, in Proceedings of ACM Multimedia Conference, Oct. 21-25,  % pp. 43-52, Barcelona, Catalunya, Spain, 2013.
 % 
 % Contact: yuany@ust.hk, xuqianqian@ict.ac.cn
 %----------------------------------------------------------------------
